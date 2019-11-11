@@ -24,7 +24,6 @@ function Header() {
                             </ul>
                         </div>
                         <div className="span6">
-
                             <ul className="social-network">
                                 <li><a href={null} data-placement="bottom" title="Facebook"><i className="icon-circled icon-bglight icon-facebook"></i></a></li>
                                 <li><a href={null} data-placement="bottom" title="Twitter"><i className="icon-circled icon-bglight icon-twitter"></i></a></li>
@@ -32,7 +31,6 @@ function Header() {
                                 <li><a href={null} data-placement="bottom" title="Pinterest"><i className="icon-circled icon-pinterest  icon-bglight"></i></a></li>
                                 <li><a href={null} data-placement="bottom" title="Google +"><i className="icon-circled icon-google-plus icon-bglight"></i></a></li>
                             </ul>
-
                         </div>
                     </div>
                 </div>
